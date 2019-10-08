@@ -1,0 +1,3 @@
+[submodule "whatstyle"]
+	path = whatstyle
+	url = https://github.com/gusgamble/whatstyle.git

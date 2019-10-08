@@ -1,5 +1,6 @@
 atom-autocomplete-php
 atom-beautify
+atom-ctags
 atom-material-muted-syntax
 atom-material-syntax
 atom-material-syntax-dark
@@ -12,8 +13,10 @@ autocomplete-sql
 bliss-syntax
 bliss-ui
 busy-signal
+file-icons
 ftp-remote-edit
 gloom
+highlight-selected
 intentions
 java-importer
 kite
@@ -30,7 +33,11 @@ linter-jsonlint
 linter-php
 linter-ui-default
 minimap
+minimap-cursorline
+minimap-linter
 nebula-syntax
 packages-txt
 pdf-view
+pigments
 platformio-ide-terminal
+sync-settings
